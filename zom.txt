@@ -1,0 +1,4 @@
+main()
+if(0=1)
+then
+print("1 as the ans");
