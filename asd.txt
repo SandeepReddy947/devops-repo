@@ -3,3 +3,4 @@ am fine, how abt you?:
 wt is it?
 jenkins auto
 poll scm
+second time poll scm
