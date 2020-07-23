@@ -2,3 +2,4 @@ how are you
 am fine, how abt you?:
 wt is it?
 jenkins auto
+poll scm
